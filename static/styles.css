@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.dark-bg {
+    background-color: #333;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.logo-img {
+    width: 100px;
+    height: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.heading {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 1.2em;
+}
+
+.breadcrumb {
+    margin-top: 10px;
+}
+
+.breadcrumb a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+.breadcrumb a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    font-size: 1.1em;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
